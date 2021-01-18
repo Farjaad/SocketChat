@@ -6,14 +6,4 @@ repository:
   tags:
 service:
   name: broken config
-  lifecycle:
-  tier:
-  product:
-  owner:
-  language:
-  framework:
-  description:
-  aliases:
-  tags:
-  repositories:
-  tools:
+  life
